@@ -1,0 +1,10 @@
+C:\Users\renel\Documents\Projects\delegateLamdasActionTFuncT\ActionAndFuncT\bin\Debug\netcoreapp2.1\ActionAndFuncT.deps.json
+C:\Users\renel\Documents\Projects\delegateLamdasActionTFuncT\ActionAndFuncT\bin\Debug\netcoreapp2.1\ActionAndFuncT.runtimeconfig.json
+C:\Users\renel\Documents\Projects\delegateLamdasActionTFuncT\ActionAndFuncT\bin\Debug\netcoreapp2.1\ActionAndFuncT.runtimeconfig.dev.json
+C:\Users\renel\Documents\Projects\delegateLamdasActionTFuncT\ActionAndFuncT\bin\Debug\netcoreapp2.1\ActionAndFuncT.dll
+C:\Users\renel\Documents\Projects\delegateLamdasActionTFuncT\ActionAndFuncT\bin\Debug\netcoreapp2.1\ActionAndFuncT.pdb
+C:\Users\renel\Documents\Projects\delegateLamdasActionTFuncT\ActionAndFuncT\obj\Debug\netcoreapp2.1\ActionAndFuncT.csproj.CoreCompileInputs.cache
+C:\Users\renel\Documents\Projects\delegateLamdasActionTFuncT\ActionAndFuncT\obj\Debug\netcoreapp2.1\ActionAndFuncT.AssemblyInfoInputs.cache
+C:\Users\renel\Documents\Projects\delegateLamdasActionTFuncT\ActionAndFuncT\obj\Debug\netcoreapp2.1\ActionAndFuncT.AssemblyInfo.cs
+C:\Users\renel\Documents\Projects\delegateLamdasActionTFuncT\ActionAndFuncT\obj\Debug\netcoreapp2.1\ActionAndFuncT.dll
+C:\Users\renel\Documents\Projects\delegateLamdasActionTFuncT\ActionAndFuncT\obj\Debug\netcoreapp2.1\ActionAndFuncT.pdb

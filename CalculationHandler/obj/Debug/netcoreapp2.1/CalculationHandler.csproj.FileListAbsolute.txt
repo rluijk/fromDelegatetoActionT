@@ -1,0 +1,10 @@
+C:\Users\renel\Documents\Projects\delegateLamdasActionTFuncT\CalculationHandler\obj\Debug\netcoreapp2.1\CalculationHandler.csproj.CoreCompileInputs.cache
+C:\Users\renel\Documents\Projects\delegateLamdasActionTFuncT\CalculationHandler\obj\Debug\netcoreapp2.1\CalculationHandler.AssemblyInfoInputs.cache
+C:\Users\renel\Documents\Projects\delegateLamdasActionTFuncT\CalculationHandler\obj\Debug\netcoreapp2.1\CalculationHandler.AssemblyInfo.cs
+C:\Users\renel\Documents\Projects\delegateLamdasActionTFuncT\CalculationHandler\bin\Debug\netcoreapp2.1\CalculationHandler.deps.json
+C:\Users\renel\Documents\Projects\delegateLamdasActionTFuncT\CalculationHandler\bin\Debug\netcoreapp2.1\CalculationHandler.runtimeconfig.json
+C:\Users\renel\Documents\Projects\delegateLamdasActionTFuncT\CalculationHandler\bin\Debug\netcoreapp2.1\CalculationHandler.runtimeconfig.dev.json
+C:\Users\renel\Documents\Projects\delegateLamdasActionTFuncT\CalculationHandler\bin\Debug\netcoreapp2.1\CalculationHandler.dll
+C:\Users\renel\Documents\Projects\delegateLamdasActionTFuncT\CalculationHandler\bin\Debug\netcoreapp2.1\CalculationHandler.pdb
+C:\Users\renel\Documents\Projects\delegateLamdasActionTFuncT\CalculationHandler\obj\Debug\netcoreapp2.1\CalculationHandler.dll
+C:\Users\renel\Documents\Projects\delegateLamdasActionTFuncT\CalculationHandler\obj\Debug\netcoreapp2.1\CalculationHandler.pdb
